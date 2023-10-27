@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monaco Editor</title>
+    <!-- Load Monaco Editor scripts and stylesheets -->
+    <script src="./node_modules/monaco-editor/min/vs/loader.js"></script>
+    <style>
+        /* Set a specific height for the editor container */
+        #editor-container {
+            height: 500px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Create a container for the editor -->
+    <div id="editor-container"></div>
+
+    <script>
+        // Initialize Monaco Editor
+        require.config({ paths: { 'vs': './node_modules/monaco-editor/min/vs' } });
+        require(['vs/editor/editor.main'], function () {
+            // Create an instance of the editor
+            var editor = monaco.editor.create(document.getElementById('editor-container'), {
+                value: 'console.log("Hello, Monaco Editor!");',
+                language: 'python'
+            });
+        });
+    </script>
+</body>
+</html>

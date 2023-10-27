@@ -1,0 +1,64 @@
+/* Basic Styles */
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #0f0;
+    transition: color 0.5s ease;
+  }
+  
+  .container {
+    max-width: 1000px; /* Increased max-width */
+    margin: auto;
+    padding: 40px; /* Increased padding */
+    transition: padding 0.5s ease;
+  }
+  
+  /* Neon Buttons */
+  button {
+    padding: 12px 24px; /* Increased padding */
+    margin: 12px; /* Increased margin */
+    background-color: transparent;
+    color: #0f0;
+    border: 3px solid #0f0; /* Increased border thickness */
+    text-transform: uppercase;
+    letter-spacing: 3px; /* Increased letter spacing */
+    cursor: pointer;
+    position: relative;
+    transition: all 0.5s ease; /* Smoothed transition */
+  }
+  
+  button:before, button:after {
+    /* ...existing styles */
+  }
+  
+  button:hover {
+    color: #fff;
+    box-shadow: 0 0 15px #0f0, 0 0 25px #0f0; /* Added glow on hover */
+  }
+  
+  button:hover:before {
+    opacity: 1;
+    transform: scale(1.2, 1.2); /* Slightly increased scale */
+  }
+  
+  /* Neon Inputs and Textarea */
+  input, textarea {
+    /* ...existing styles */
+    font-size: 1.1em; /* Increased font size */
+    transition: all 0.5s ease; /* Smoothed transition */
+  }
+  
+  input:focus, textarea:focus {
+    /* ...existing styles */
+    box-shadow: 0 0 10px #0f0, 0 0 20px #0f0; /* Added glow on focus */
+  }
+  
+  /* Monitor */
+  #terminal-output {
+    /* ...existing styles */
+    border-radius: 10px; /* Added rounded corners */
+    transition: all 0.5s ease; /* Smoothed transition */
+  }
+  

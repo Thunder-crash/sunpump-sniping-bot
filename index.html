@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Python Runner</title>
+    <link id="style-sheet" rel="stylesheet" type="text/css" href="CSS/styles1.css">
+  </head>
+  <body>
+    <button id="style-switch-button">Switch Style</button>
+    <button id="open-monaco-button">Open Monaco Editor</button>
+    <button id="openFileButton">Open File</button>
+    <button type="submit" id="search-button">Search</button>
+   
+    <div class="search-container">
+      <form id="search-form">
+        <input type="text" id="search-input" placeholder="Search Google">
+      </form>
+    </div>
+
+    <div id="script-path-input">
+      <h2>Python File</h2>
+      <input type="text" id="script-path" placeholder="Enter Python File Path">
+      <button id="add-script-button">Add File</button>
+      <div id="message-box"></div>
+    </div>
+
+    <div id="script-selection">
+      <h2>Select File</h2>
+      <select id="script-dropdown"></select>
+      <button id="delete-button">Delete File</button>
+    </div>
+
+    <div id="terminal-output"></div>
+
+    <div id="run-script">
+      <button id="run-python">Run Python File</button>
+    </div>
+
+    <script src="renderer.js"></script>
+    <script src="stylescombo.js"></script>
+    <script src="Gsearch.js"></script>
+  </body>
+</html>

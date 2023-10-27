@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #fff;
+    color: #000;
+  }
+  
+  input[type="text"], select {
+    width: 500px;
+    height: 30px;
+    margin-right: 10px;
+    background-color: #ddd;
+    color: #000;
+    border: none;
+  }
+  
+  input[type="text"]:hover, select:hover {
+    background-color: #bbb; 
+  }
+  
+  button {
+    height: 30px;
+    margin-right: 10px;
+    font-size: 100%;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  #terminal-output {
+    width: 80%;
+    height: 200px;
+    border: 1px solid #000;
+    padding: 20px;
+    overflow-y: scroll;
+    background-color: #ddd;
+    margin-top: 5%;
+  }
+  
+  #script-dropdown {
+    width: 543px;
+    height: auto; 
+  }
+  
+  #script-dropdown:hover {
+    background-color: #bbb; 
+  }
+  
+  #script-path { 
+  border: none;
+  padding: 20px;
+  font-size: normal;
+  }
+  
+  #script-dropdown { 
+  font-size: normal;
+  }
+  
+  #run-python {
+  margin-top: normal;
+  }
+  

@@ -1,0 +1,54 @@
+
+/* Basic body styling */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #000;
+  color: #0f0;
+}
+
+/* Container for all elements */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Styling buttons */
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #0f0;
+  color: #000;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: red;
+}
+
+/* Styling for the input and textarea */
+input, textarea {
+  padding: 10px;
+  margin: 10px;
+  background-color: #222;
+  color: #0f0;
+  border: none;
+  transition: background-color 0.3s;
+}
+
+input:hover, textarea:hover {
+  background-color: red;
+}
+
+/* Styling for the monitor */
+#monitor {
+  width: 100%;
+  height: 400px;
+  background-color: #222;
+  color: #0f0;
+  border: 2px solid #0f0;
+  overflow: auto;
+}

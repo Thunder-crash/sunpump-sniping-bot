@@ -1,0 +1,36 @@
+[2023-10-22T18:06:03.696Z] Script Deleted: ScriptPath: E:\0.Programs\My scripts\screenshots\3abcautopageheadless.py
+[2023-10-22T18:38:31.910Z] Script Deleted: ScriptPath: E:\0.Programs\My scripts\screenshots\nw_test.py
+[2023-10-22T18:38:33.113Z] Script Deleted: ScriptPath: E:\0.Programs\My scripts\screenshots\nw_test.py
+[2023-10-22T18:40:52.305Z] Script Added: ScriptPath: E:\0.Programs\My scripts\search codes\rajinifirefox2.py
+[2023-10-22T18:41:15.789Z] Script Added: ScriptPath: E:\0.Programs\My scripts\search codes\rajinifirefox.py
+[2023-10-22T18:41:38.912Z] Script Added: ScriptPath: E:\0.Programs\My scripts\screenshots\---ss_fullpage_multisites_savepath_headless_txtfile_logfile\w_abc.py
+[2023-10-22T18:41:52.155Z] Script Added: ScriptPath: E:\0.Programs\My scripts\screenshots\---ss_fullpage_multisites_savepath_head_txtfile_logfile\w_abchead.py
+[2023-10-22T18:42:15.193Z] Script Added: ScriptPath: E:\Pydroid3\rss\rss_app\app.py
+[2023-10-22T18:42:34.647Z] Script Added: ScriptPath: E:\Pydroid3\image_switcher\index.html
+[2023-10-22T18:43:27.843Z] Script Added: ScriptPath: E:\0.Programs\My scripts\Googleforms\gform2success.py
+[2023-10-22T19:03:05.171Z] Script Added: ScriptPath: E:\Pydroid3\Wiki Scrap\w_wiki_entersearchterm_filesave.py
+[2023-10-22T19:05:32.034Z] Script Deleted: ScriptPath: E:\Pydroid3\image_switcher\index.html
+[2023-10-22T19:05:34.604Z] Script Deleted: ScriptPath: E:\Pydroid3\rss\rss_app\app.py
+[2023-10-22T19:08:04.207Z] Script Added: ScriptPath: E:\0.Programs\My scripts\X_BlacK\X_BlacK_7.py
+[2023-10-22T19:08:05.059Z] Script Deleted: ScriptPath: E:\Pydroid3\Wiki Scrap\w_wiki_entersearchterm_filesave.py
+[2023-10-23T05:50:43.528Z] Script Deleted: ScriptPath: E:\0.Programs\My scripts\search codes\rajinifirefox.py
+[2023-10-23T17:01:22.524Z] Script Deleted: ScriptPath: E:\0.Programs\My scripts\X_BlacK\X_BlacK_7.py
+[2023-10-24T11:04:26.396Z] Script Deleted: ScriptPath: E:\0.Programs\My scripts\search codes\rajinifirefox2.py
+[2023-10-24T11:04:28.457Z] Script Deleted: ScriptPath: E:\0.Programs\My scripts\screenshots\---ss_fullpage_multisites_savepath_headless_txtfile_logfile\w_abc.py
+[2023-10-24T11:04:31.462Z] Script Deleted: ScriptPath: E:\0.Programs\My scripts\screenshots\---ss_fullpage_multisites_savepath_head_txtfile_logfile\w_abchead.py
+[2023-10-24T11:04:32.734Z] Script Deleted: ScriptPath: E:\0.Programs\My scripts\Googleforms\gform2success.py
+[2023-10-24T11:56:08.700Z] Script Added: ScriptPath: E:\0.Programs\My scripts\screenshots\---ss_fullpage_multisites_savepath_head_txtfile_logfile\w_abchead.py
+[2023-10-24T11:59:49.404Z] Script Added: ScriptPath: E:\0.Programs\My scripts\search codes\101023.py
+[2023-10-24T11:59:58.297Z] Script Added: ScriptPath: E:\0.Programs\My scripts\search codes\101023_2.py
+[2023-10-24T12:00:07.045Z] Script Added: ScriptPath: E:\0.Programs\My scripts\search codes\rajinifirefox.py
+[2023-10-24T12:00:15.168Z] Script Added: ScriptPath: E:\0.Programs\My scripts\search codes\rajinifirefox.py
+[2023-10-24T12:00:24.786Z] Script Added: ScriptPath: E:\0.Programs\My scripts\search codes\test1.py
+[2023-10-24T12:00:29.449Z] Script Added: ScriptPath: E:\0.Programs\My scripts\search codes\testestets.py
+[2023-10-24T12:00:35.994Z] Script Added: ScriptPath: E:\0.Programs\My scripts\search codes\worksabc2.py
+[2023-10-24T12:00:54.388Z] Script Deleted: ScriptPath: E:\0.Programs\My scripts\search codes\rajinifirefox.py
+[2023-10-24T16:58:23.068Z] Script Added: ScriptPath: E:\0.Programs\My scripts\search codes\worksabc2.py
+[2023-10-24T16:58:52.054Z] Script Added: ScriptPath: E:\0.Programs\My scripts\search codes\testestets.py
+[2023-10-24T16:59:01.724Z] Script Added: ScriptPath: E:\0.Programs\My scripts\search codes\test1.py
+[2023-10-24T16:59:11.808Z] Script Added: ScriptPath: E:\0.Programs\My scripts\search codes\101023_2.py
+[2023-10-24T17:21:37.596Z] Script Added: ScriptPath: E:\0.Programs\My scripts\screenshots\---ss_fullpage_multisites_savepath_head_txtfile_logfile\w_abchead.py
+[2023-10-26T14:45:32.452Z] Script Deleted: ScriptPath: E:\0.Programs\My scripts\search codes\101023_2.py

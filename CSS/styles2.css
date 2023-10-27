@@ -1,0 +1,82 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding: 20px;
+  background-color: #111; /* Dark background */
+  color: #0f0; /* Green text */
+}
+
+/* Updated styles for input and select elements */
+input[type="text"], select {
+  width: 500px;
+  height: 30px;
+  margin-right: 10px;
+  background-color: #333; /* Dark gray background */
+  color: #0f0; /* Green text */
+  border: 1px solid #0f0; /* Green border */
+  /* Neon effect on hover */
+  transition: background-color 0.3s ease-in-out;
+}
+
+input[type="text"]:hover, select:hover {
+  background-color: #2f4ac5; /* Neon blue on hover */
+}
+
+/* Updated styles for buttons */
+button {
+  height: 30px;
+  margin-right: 10px;
+  font-size: 100%;
+  background-color: #f00; /* Red button */
+  color: #fff; /* White text */
+  border: none;
+  /* Neon effect on hover */
+}
+
+button:hover {
+  background-color: #1c9e38; /* Neon green on hover */
+}
+
+/* Updated styles for the terminal output */
+#terminal-output {
+  width: 80%;
+  height: 200px;
+  border: 1px solid #0f0; /* Green border */
+  padding: 80px;
+  overflow-y: scroll;
+  background-color: #222; /* Dark background */
+  margin-top: 5%;
+  color: #0f0; /* Green text */
+}
+
+/* Updated styles for the script dropdown */
+#script-dropdown {
+  width: 543px;
+  height: 100px; /* Adjust this value to your preference */
+  /* Neon effect on hover */
+  border: 1px solid #0f0; /* Green border */
+  transition: background-color 0.3s ease-in-out;
+  background-color: #333; /* Dark gray background */
+  color: #0f0; /* Green text */
+}
+
+#script-dropdown:hover {
+  background-color: #2f4ac5; /* Neon blue on hover */
+}
+
+#script-path {
+  border: 1px solid #0f0; /* Green border */
+  padding: 20px;
+  font-size: 130%;
+}
+
+#script-dropdown {
+  font-size: 130%;
+}
+
+#run-python {
+  margin-top: 2%;
+}
+
+#script-selection {
+
+}

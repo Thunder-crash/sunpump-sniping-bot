@@ -1,0 +1,4 @@
+2023-10-23 02:31:42,713 - ERROR: Failed to retrieve the webpage. Status code: 404
+2023-10-23 02:31:42,719 - INFO: Scraped 0 video links.
+2023-10-23 02:32:08,030 - ERROR: Failed to retrieve the webpage. Status code: 404
+2023-10-23 02:32:08,036 - INFO: Scraped 0 video links.

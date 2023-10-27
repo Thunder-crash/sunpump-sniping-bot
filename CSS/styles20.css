@@ -1,0 +1,94 @@
+/* Set a black background for the entire page */
+body {
+  background-color: black;
+  color: white; /* Text color */
+  font-family: 'Fjalla One', sans-serif; /* Font */
+}
+
+/* Apply green border to buttons */
+button {
+  border: 2px solid green;
+  background-color: transparent;
+  color: green;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+/* Change button color on hover to reddish */
+button:hover {
+  background-color: red;
+  color: white;
+}
+
+/* Style the search input and submit button */
+#search-input,
+#search-button {
+  border: 2px solid green;
+  padding: 5px;
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+  background-color: transparent;
+}
+
+/* Style the search button on hover */
+#search-button:hover {
+  background-color: red;
+  color: white;
+}
+
+/* Style the script path input and add file button */
+#script-path,
+#add-script-button {
+  border: 2px solid green;
+  padding: 5px;
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+  background-color: transparent;
+}
+
+/* Style the message box */
+#message-box {
+  border: 2px solid green;
+  padding: 10px;
+  margin-top: 10px;
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+  background-color: transparent;
+}
+
+/* Style the dropdown menu */
+#script-dropdown {
+  border: 2px solid green;
+  padding: 5px;
+  font-family: 'Fjalla One', sans-serif;
+  color: rgb(233, 15, 15);
+  background-color: transparent;
+}
+
+/* Style the delete button */
+#delete-button {
+  border: 2px solid green;
+  background-color: transparent;
+  color: green;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+/* Style the terminal output */
+#terminal-output {
+  border: 4px solid green; /* Add thick border */
+  padding: 10px;
+  margin-top: 20px;
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+  background-color: transparent;
+}
+
+/* Style the run Python button */
+#run-python {
+  border: 2px solid green;
+  background-color: transparent;
+  color: green;
+  padding: 5px 10px;
+  cursor: pointer;
+}
