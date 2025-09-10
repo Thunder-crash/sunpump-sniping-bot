@@ -1,0 +1,11 @@
+{
+  "sunpumpContract": "TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf",
+  "watchNewTokens": true,
+  "watchBondingCurve": true,
+  "targets": [
+    { "token": "TExampleTokenAddress123456789", "maxTrx": "100", "slippagePercent": 5 }
+  ],
+  "blacklist": [],
+  "minMarketCap": "1000",
+  "maxMarketCap": "50000"
+}
